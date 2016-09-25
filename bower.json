@@ -14,7 +14,7 @@
     "dropzone"
   ],
   "dependencies": {
-    "dropzone": "~4.3.o"
+    "dropzone": "~4.3.0"
   },
   "license": "MIT",
   "ignore": [
